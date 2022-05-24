@@ -1,7 +1,6 @@
 - 👋 Hi, I’m a lovely Avocado
 - 👀 I’m interested in swimming and badminton...
 - 🌱 I’m currently learning web & English
-- 🏳️‍⚧️ Transgender friendly.(though we avocado don't have sex..)
 - 🇺🇦 Of course, stand with Ukraine and people who suffer from tyranny..
 
 <!---
