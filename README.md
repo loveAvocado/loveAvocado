@@ -1,6 +1,4 @@
 - 👋 Hi, I’m a lovely Avocado
-- 👀 I’m interested in swimming and reading...
-- 🌱 I’m currently learning Web 
 - 🇺🇦 Stand with Ukraine and people who suffer from tyranny..
 
 <!---
