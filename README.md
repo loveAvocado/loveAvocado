@@ -1,5 +1,5 @@
-- 👋 Hi, I’m a lovely Avocado
-- 🇺🇦 Stand with Ukraine and people who suffer from tyranny..
+- 👋 Hi, I’m Eriko..
+- 🇺🇦 Stand with Ukraine 
 
 <!---
 loveAvocado/loveAvocado is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
